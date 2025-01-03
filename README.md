@@ -1,4 +1,4 @@
 # Pages
 
-- [tetrapod0.github.io/Pages/portfolio](tetrapod0.github.io/Pages/portfolio)
-- [tetrapod0.github.io/Pages/schezzle](tetrapod0.github.io/Pages/schezzle)
+- [/portfolio](https://tetrapod0.github.io/Pages/portfolio)
+- [/schezzle](https://tetrapod0.github.io/Pages/schezzle)
